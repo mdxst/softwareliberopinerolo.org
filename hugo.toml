@@ -1,4 +1,4 @@
-baseURL = 'https://mdxst.github.io/softwareliberopinerolo.org'
+baseURL = '/'
 languageCode = 'it-it'
 title = 'SLiP - Software Libero Pinerolo'
 theme = 'mana'
