@@ -1,0 +1,43 @@
+baseURL = 'https://softwareliberopinerolo.org/'
+languageCode = 'it-it'
+title = 'SLiP - Software Libero Pinerolo'
+theme = 'mana'
+
+[params]
+  description = "Associazione pinerolese di appassionati di GNU/Linux, installation party locali ed eventi di promozione sul territorio."
+  favicon = "/favicon/favicon.ico"
+  footerText = "Codice fiscale 94561990014"  # Optional
+  
+  # Hero section title (optional - defaults to site.Title)
+  heroTitleLine1 = "SLiP"                     # First line of hero title
+  heroTitleLine2 = "Software Libero Pinerolo" # Second line of hero title (optional)
+  custom404Message = "Spiacenti, la pagina che hai richiesto non esiste. <em>errore 404!</em>"
+
+[params.avatar]
+  url = "/cropped-Logo_SLiP-alfa.png"
+
+[params.social]
+  instagram = "https://instagram.com/slip.pinerolo"
+  signal = "https://signal.group/#CjQKIFfv69C7rndcs9BMUSG_5JN5Ci7VWaL-cSpnxfQJ5duHEhDd6xUE_rH_MHecPivZPMea"
+  telegram = "https://t.me/SoftwareLiberoPinerolo"
+  email = "info@softwareliberopinerolo.org"
+
+[[menus.main]]
+  name = 'Home'
+  pageRef = '/'
+  weight = 10
+
+[[menus.main]]
+  name = 'Blog'
+  pageRef = '/blog'
+  weight = 20
+
+[[menus.main]]
+  name = 'Tag'
+  pageRef = '/tags/'
+  weight = 30
+
+[[menus.main]]
+  name = 'Chi siamo'
+  url = '/chisiamo/'
+  weight = 40
