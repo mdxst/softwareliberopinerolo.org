@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blogs on SLiP - Software Libero Pinerolo</title>
-    <link>http://localhost:1313/blog/</link>
+    <link>//localhost:1313/blog/</link>
     <description>Recent content in Blogs on SLiP - Software Libero Pinerolo</description>
     <generator>Hugo</generator>
     <language>it-it</language>
     <lastBuildDate>Sun, 15 Feb 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Riunione 12 febbraio 2026</title>
-      <link>http://localhost:1313/blog/verbale-riunione-12-02-2026/</link>
+      <link>//localhost:1313/blog/verbale-riunione-12-02-2026/</link>
       <pubDate>Sun, 15 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/verbale-riunione-12-02-2026/</guid>
+      <guid>//localhost:1313/blog/verbale-riunione-12-02-2026/</guid>
       <description>&lt;h1 id=&#34;verbale&#34;&gt;Verbale&lt;/h1&gt;&#xA;&lt;p&gt;Ciao ragazzi! &lt;!-- raw HTML omitted --&gt;TODO&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;</description>
     </item>
   </channel>

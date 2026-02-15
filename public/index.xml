@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>SLiP - Software Libero Pinerolo</title>
-    <link>http://localhost:1313/</link>
+    <link>//localhost:1313/</link>
     <description>Recent content on SLiP - Software Libero Pinerolo</description>
     <generator>Hugo</generator>
     <language>it-it</language>
     <lastBuildDate>Sun, 15 Feb 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Chi siamo</title>
-      <link>http://localhost:1313/chisiamo/</link>
+      <link>//localhost:1313/chisiamo/</link>
       <pubDate>Sun, 15 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/chisiamo/</guid>
+      <guid>//localhost:1313/chisiamo/</guid>
       <description>&lt;h1 id=&#34;chi-siamo&#34;&gt;Chi siamo&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;SLiP&lt;/strong&gt; (&lt;em&gt;Software Libero Pinerolo&lt;/em&gt;) è un gruppo di volontari appassionati di&#xA;&lt;a href=&#34;https://fsf.org/it&#34;&gt;software libero&lt;/a&gt; (non necessariamente &lt;em&gt;gratis&lt;/em&gt;: è libero&#xA;il software che rispetta la libertà dell&amp;rsquo;utente, che ne permette l&amp;rsquo;uso per&#xA;qualunque scopo, la modifica e la ridistribuzione) nel pinerolese.&lt;/p&gt;&#xA;&lt;p&gt;Organizziamo &lt;em&gt;Linux Day&lt;/em&gt;, &lt;em&gt;CoderDojo&lt;/em&gt; e ci troviamo per chiacchierare di quello&#xA;che ci appassiona, di computer, hardware, Arduino (vedasi&#xA;&lt;a href=&#34;https://github.com/hardwareliberopinerolo&#34;&gt;&lt;em&gt;hardwareliberopinerolo&lt;/em&gt;&lt;/a&gt;!) e tutto&#xA;il mondo nerd!&lt;/p&gt;&#xA;&lt;p&gt;Ci troviamo &lt;em&gt;in modo formale&lt;/em&gt; una volta al mese presso il &lt;strong&gt;FabLab di Pinerolo&lt;/strong&gt;&#xA;(al Palaghiaccio).&lt;/p&gt;</description>
     </item>
     <item>
       <title>Riunione 12 febbraio 2026</title>
-      <link>http://localhost:1313/blog/verbale-riunione-12-02-2026/</link>
+      <link>//localhost:1313/blog/verbale-riunione-12-02-2026/</link>
       <pubDate>Sun, 15 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/verbale-riunione-12-02-2026/</guid>
+      <guid>//localhost:1313/blog/verbale-riunione-12-02-2026/</guid>
       <description>&lt;h1 id=&#34;verbale&#34;&gt;Verbale&lt;/h1&gt;&#xA;&lt;p&gt;Ciao ragazzi! &lt;!-- raw HTML omitted --&gt;TODO&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;</description>
     </item>
   </channel>

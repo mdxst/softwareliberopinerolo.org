@@ -5,7 +5,7 @@ theme = 'mana'
 
 [params]
   description = "Associazione pinerolese di appassionati di GNU/Linux, installation party locali ed eventi di promozione sul territorio."
-  favicon = "/favicon/favicon.ico"
+  favicon = "favicon/favicon.ico"
   footerText = "Codice fiscale 94561990014"  # Optional
   
   # Hero section title (optional - defaults to site.Title)
@@ -14,7 +14,7 @@ theme = 'mana'
   custom404Message = "Spiacenti, la pagina che hai richiesto non esiste. <em>errore 404!</em>"
 
 [params.avatar]
-  url = "/cropped-Logo_SLiP-alfa.png"
+  url = "logo.png"
 
 [params.social]
   instagram = "https://instagram.com/slip.pinerolo"
