@@ -4,8 +4,6 @@ author: "Mirko Di Stefano e soci SLiP"
 date: "2026-02-15"
 ---
 
-# Chi siamo
-
 **SLiP** (_Software Libero Pinerolo_) è un gruppo di volontari appassionati di
 [software libero](https://fsf.org/it) (non necessariamente _gratis_: è libero
 il software che rispetta la libertà dell'utente, che ne permette l'uso per
