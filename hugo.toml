@@ -41,3 +41,7 @@ theme = 'mana'
   name = 'Chi siamo'
   url = '/chisiamo/'
   weight = 40
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
