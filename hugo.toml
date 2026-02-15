@@ -1,4 +1,4 @@
-baseURL = ''
+baseURL = '/'
 languageCode = 'it-it'
 title = 'SLiP - Software Libero Pinerolo'
 theme = 'mana'
