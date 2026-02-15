@@ -1,7 +1,8 @@
-baseURL = 'https://mdxst.github.io/softwareliberopinerolo.org/'
+baseURL = '/'
 languageCode = 'it-it'
 title = 'SLiP - Software Libero Pinerolo'
 theme = 'mana'
+outputs = ["html", "xml"]
 
 [params]
   description = "Associazione pinerolese di appassionati di GNU/Linux, installation party locali ed eventi di promozione sul territorio."
