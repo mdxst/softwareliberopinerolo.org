@@ -105,6 +105,7 @@
           "page" .
           "limit" 3
           "dataYearMonth" (printf "%s %s" (.Date.Format "2006") (.Date.Format "January"))
+          "dataAuthor" (.Param "author")
           "dataTags" $dataTags)
         }}
       {{ end }}

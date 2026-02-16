@@ -8,4 +8,4 @@ image: ""
 
 # Verbale
 
-Ciao ragazzi! <mark>TODO</mark>
+Ciao a tutti

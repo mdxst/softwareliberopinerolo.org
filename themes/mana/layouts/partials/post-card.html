@@ -1,6 +1,7 @@
 {{ $page := .page }}
 {{ $limit := default 3 .limit }}
 {{ $dataYearMonth := .dataYearMonth }}
+{{ $dataAuthor := .dataAuthor }}
 {{ $dataTags := .dataTags }}
 {{ if and (not $dataYearMonth) $page.Date }}
   {{ $dataYearMonth = printf "%s %s" ($page.Date.Format "2006") ($page.Date.Format "January") }}
@@ -12,6 +13,7 @@
   class="post-card"
   data-post-url="{{ $page.RelPermalink }}"
   {{ if $dataYearMonth }}data-year-month="{{ $dataYearMonth }}"{{ end }}
+  {{ if $dataAuthor }}data-authorh="{{ $dataAuthor }}"{{ end }}
   {{ if $dataTags }}data-tags="{{ $dataTags }}"{{ end }}>
   {{ partial "post-image.html" $page }}
 

@@ -43,6 +43,11 @@ outputs = ["html", "xml"]
   url = '/chisiamo/'
   weight = 40
 
+[[menus.main]]
+  name = 'Mailing list'
+  url = '/mailinglist/'
+  weight = 40
+
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
