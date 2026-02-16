@@ -44,7 +44,7 @@ Questo significa che le possibilità sono le seguenti:
       apre anche la possibiltà di creare un piccolo forum/_Lemmy_
       anzichè una mailing list
     - Appoggiarci a [_ILS_](https://www.ils.org/), diventandone soci
-      (€20 euro l'anno (?))
+      (€25 euro l'anno)
 - Abbandonare definitivamente la mailing list
     - Utilizzare le nostre chat di gruppo (_Signal_ e _Telegram_) per
       l'organizzazione interna, le chiacchiere, le domande tecniche,
