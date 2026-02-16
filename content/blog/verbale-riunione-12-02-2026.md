@@ -116,8 +116,8 @@ quindi, programmazione ad oggetti.
 
 
 Questo è quanto, vi ricordo la prossima riunione tra un mese,
-**giovedì 12 marzo alle 20:00**! Ringrazio tutti i partecipanti per
-il consueto impegno e entusiasmo.
+**giovedì 12 marzo alle 20:00**, al _FabLab_ di Pinerolo! Ringrazio
+tutti i partecipanti per il consueto impegno e entusiasmo.
 
 Buona settimana a tutti,
 
